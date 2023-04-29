@@ -1,4 +1,4 @@
-The CAW Manifesto:
+# The CAW Manifesto:
 
 A Manifesto on a Decentralized Social Clearing House ...(AKA) CAW
 
