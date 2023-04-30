@@ -1,0 +1,16 @@
+# 🪄 CAW Front-End:
+CAW - The Future Of Decentralized Social Media
+
+---
+
+**Figma designs have begun!  🎉**
+
+To check the current status ⬇️
+<br/> https://bit.ly/44dFHEH
+
+⏳ Component > Left Bar started to be developed.
+
+---
+
+**🚀 To follow the roadmap ⬇️**
+<br/>  https://bit.ly/3Nrh01I
