@@ -8,7 +8,8 @@ CAW - The Future Of Decentralized Social Media
 To check the current status ⬇️
 <br/> https://bit.ly/44dFHEH
 
-⏳ Component > Left Bar started to be developed.
+✅ Component > Left Bar design is completed.
+<br>⏳ Component > Header started to be developed.
 
 ---
 
