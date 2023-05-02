@@ -10,8 +10,8 @@ To check the current status ⬇️
 <br/> ✅ Component > Left Bar design is completed.
 <br/> ✅ Component > Header design is completed.
 <br> ✅ Component > Right Bar design is completed.
-<br/> ⏳ Component > Object/Elements started to be developed.
-
+<br> ✅ Component > Object/Elements > Loader design is completed.
+<br/> ⏳ Component > Object/Elements > New Post Box started to be developed.
 ---
 
 **🚀 To follow the roadmap ⬇️**
