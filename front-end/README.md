@@ -12,7 +12,9 @@ To check the current status ⬇️
 <br> ✅ Component > Right Bar design is completed.
 <br> ✅ Component > Object/Elements > Loader design is completed.
 <br/> ✅ Component > Object/Elements > New Post Box design is completed.
-<br/> ⏳ Component > Object/Elements > Post Box started to be developed.
+<br/> ✅ Component > Object/Elements > Post Box design is completed.
+<br/> ✅ Component > Object/Elements > Search Box design is completed.
+<br/> ⏳ Component > Object/Elements > Wallet Connect Button started to be developed.
 
 ---
 
