@@ -7,6 +7,9 @@ CAW - The Future Of Decentralized Social Media
 
 To check the current status ⬇️
 <br/> https://bit.ly/44dFHEH <br/>
+
+---
+🎉 Component designs have all been completed. ✅ <br/>
 <br/> ✅ Component > Left Bar design is completed.
 <br/> ✅ Component > Header design is completed.
 <br> ✅ Component > Right Bar design is completed.
@@ -17,9 +20,15 @@ To check the current status ⬇️
 <br/> ✅ Component > Object/Elements > Wallet Connect Button is completed.
 <br/> ✅ Component > Object/Elements > Notification Card is completed.
 <br/> ✅ Component > Object/Elements > Chat User List is completed.
-<br/> ⏳ Component > Object/Elements > Chat Message Box started to be developed.
+<br/> ✅ Component > Object/Elements >  Message Box is completed.
 
 ---
 
+🎨 Sayfa tasarım inşaatına başladık 🚧 <br/>
+<br/> ✅ Pages > Home Page started to be developed.
+
+---
 **🚀 To follow the roadmap ⬇️**
 <br/>  https://bit.ly/3Nrh01I
+
+
