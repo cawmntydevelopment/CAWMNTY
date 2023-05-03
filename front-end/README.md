@@ -24,7 +24,7 @@ To check the current status ⬇️
 
 ---
 
-🎨 Sayfa tasarım inşaatına başladık 🚧 <br/>
+🎨 We started the page design construction 🚧 <br/>
 <br/> ✅ Pages > Home Page started to be developed.
 
 ---
