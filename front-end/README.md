@@ -16,7 +16,8 @@ To check the current status ⬇️
 <br/> ✅ Component > Object/Elements > Search Box design is completed.
 <br/> ✅ Component > Object/Elements > Wallet Connect Button is completed.
 <br/> ✅ Component > Object/Elements > Notification Card is completed.
-<br/> ⏳ Component > Object/Elements > Chat User List started to be developed.
+<br/> ✅ Component > Object/Elements > Chat User List is completed.
+<br/> ⏳ Component > Object/Elements > Chat Message Box started to be developed.
 
 ---
 
