@@ -17,15 +17,16 @@ To check the current status ⬇️
 <br/> ✅ Component > Object/Elements > New Post Box design is completed.
 <br/> ✅ Component > Object/Elements > Post Box design is completed.
 <br/> ✅ Component > Object/Elements > Search Box design is completed.
-<br/> ✅ Component > Object/Elements > Wallet Connect Button is completed.
-<br/> ✅ Component > Object/Elements > Notification Card is completed.
-<br/> ✅ Component > Object/Elements > Chat User List is completed.
-<br/> ✅ Component > Object/Elements >  Message Box is completed.
+<br/> ✅ Component > Object/Elements > Wallet Connect Button design is completed.
+<br/> ✅ Component > Object/Elements > Notification Card design is completed.
+<br/> ✅ Component > Object/Elements > Chat User List design is completed.
+<br/> ✅ Component > Object/Elements >  Message Box design is completed.
 
 ---
 
 🎨 We started the page design construction 🚧 <br/>
-<br/> ✅ Pages > Home Page started to be developed.
+<br/> ✅ Pages > Home Page design is completed.
+<br/> ⏳ Pages > Setting Page design started to be developed.
 
 ---
 **🚀 To follow the roadmap ⬇️**
