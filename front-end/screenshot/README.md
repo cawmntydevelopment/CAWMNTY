@@ -3,17 +3,17 @@
 ## **Home Screen**
 
 ---
-![home](./home.png)
-![home](./home-dark.png)
+![home](img/home.png)
+![home](img/home-dark.png)
 
 ## **Settings Screen**
 
 ---
-![settings](./settings.png)
-![settings](./settings-dark.png)
+![settings](img/settings.png)
+![settings](img/settings-dark.png)
 
 ## **Notifications Screen**
 
 ---
-![notifications](./notifications.png)
-![notifications](./notifications-dark.png)
+![notifications](img/notifications.png)
+![notifications](img/notifications-dark.png)
