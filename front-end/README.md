@@ -25,8 +25,10 @@ To check the current status ⬇️
 ---
 
 🎨 We started the page design construction 🚧 <br/>
-<br/> ✅ Pages > Home Page design is completed.
-<br/> ⏳ Pages > Setting Page design started to be developed.
+<br/> ✅ Pages > Home Page design is completed. 
+<br/> ✅ Pages > Setting Page design is completed.
+<br/> ⏳ Pages > Notifications Page design started to be developed.
+
 
 ---
 **🚀 To follow the roadmap ⬇️**
