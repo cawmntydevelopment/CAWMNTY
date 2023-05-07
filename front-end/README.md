@@ -29,7 +29,8 @@ To check the current status ⬇️
 <br/> ✅ Pages > Setting Page design is completed.
 <br/> ✅ Pages > Notifications Page design is completed.
 <br/> ✅ Pages > Caw Direct Page design is completed.
-<br/> ⏳ Pages > Bookmarks Page design started to be developed.
+<br/> ✅ Pages > Bookmarks Page design is completed.
+<br/> ⏳ Pages > Explore Page design started to be developed.
 
 
 ---
