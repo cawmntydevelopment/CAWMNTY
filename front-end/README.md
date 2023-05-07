@@ -37,7 +37,8 @@ To check the current status ⬇️
 
 🎨 We started the modal design construction 🚧 <br/>
 <br/> ✅ Pages > Mint Username Modal design is completed.
-<br/> ⏳ Pages > Wallet Connect design started to be developed.
+<br/> ✅ Pages > Wallet Connect Modal design is completed.
+<br/> ⏳ Pages > Comments Modal design started to be developed.
 
 
 ---
