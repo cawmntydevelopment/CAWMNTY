@@ -23,15 +23,20 @@ To check the current status ⬇️
 <br/> ✅ Component > Object/Elements >  Message Box design is completed.
 
 ---
-
-🎨 We started the page design construction 🚧 <br/>
+🎉 Page designs have all been completed. ✅ <br/>
 <br/> ✅ Pages > Home Page design is completed. 
 <br/> ✅ Pages > Setting Page design is completed.
 <br/> ✅ Pages > Notifications Page design is completed.
 <br/> ✅ Pages > Caw Direct Page design is completed.
 <br/> ✅ Pages > Bookmarks Page design is completed.
 <br/> ✅ Pages > Explore Page design is completed.
-<br/> ⏳ Pages > Profile Page design started to be developed.
+<br/> ✅ Pages > Profile Page design is completed.
+<br/> ✅ Pages > Manifesto Page design is completed.
+
+---
+
+🎨 We started the page design construction 🚧 <br/>
+<br/> ⏳ Pages > Mint Username Modal design started to be developed.
 
 
 ---
