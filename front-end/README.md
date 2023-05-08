@@ -1,9 +1,10 @@
 # 🪄 CAW Front-End:
 CAW - The Future Of Decentralized Social Media
 
+
 ---
 
-**Figma designs have begun!  🎉**
+**Figma designs are finished! 🎉**
 
 To check the current status ⬇️
 <br/> https://bit.ly/44dFHEH <br/>
@@ -35,10 +36,11 @@ To check the current status ⬇️
 
 ---
 
-🎨 We started the modal design construction 🚧 <br/>
-<br/> ✅ Pages > Mint Username Modal design is completed.
-<br/> ✅ Pages > Wallet Connect Modal design is completed.
-<br/> ⏳ Pages > Comments Modal design started to be developed.
+🎉 Modal designs have all been completed. ✅ <br/>
+<br/> ✅ Modal > Mint Username Modal design is completed.
+<br/> ✅ Modal > Wallet Connect Modal design is completed.
+<br/> ✅ Modal > Comments Modal design is completed.
+<br/> ✅ Modal > Network Communication Modal design is completed.
 
 
 ---
