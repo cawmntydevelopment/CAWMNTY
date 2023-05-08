@@ -3,7 +3,7 @@
 ## **Home Screen**
 
 ---
-![home](img/home.jpg)
+![home](img/home.png)
 ![home](img/home-dark.png)
 
 ## **Settings Screen**
@@ -26,3 +26,23 @@
 ![caw-direct](img/caw-direct-dark.png)
 ![caw-direct](img/caw-direct-message.png)
 ![caw-direct](img/caw-direct-message-dark.png)
+
+## **Profile Screen**
+
+---
+![profile](img/profile.png)
+![profile](img/profile-dark.png)
+![profile](img/profile-1.png)
+![profile](img/profile-dark-1.png)
+
+## **Explore Screen**
+
+---
+![profile](img/explore.png)
+![profile](img/explore-dark.png)
+
+## **Bookmarks Screen**
+
+---
+![profile](img/bookmarks.png)
+![profile](img/bookmarks-dark.png)
