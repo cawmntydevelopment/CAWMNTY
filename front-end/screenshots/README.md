@@ -32,8 +32,6 @@
 ---
 ![profile](img/profile.png)
 ![profile](img/profile-dark.png)
-![profile](img/profile-1.png)
-![profile](img/profile-dark-1.png)
 
 ## **Explore Screen**
 
