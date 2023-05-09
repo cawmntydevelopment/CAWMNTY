@@ -4,6 +4,14 @@ CAW - The Future Of Decentralized Social Media
 
 ---
 
+**Figma started to put her designs into code! 🚧**
+
+---
+
+⏳ Home Page started to be developed. 
+
+---
+
 **Figma designs are finished! 🎉**
 
 To check the current status ⬇️
