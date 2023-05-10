@@ -7,8 +7,8 @@ CAW - The Future Of Decentralized Social Media
 **Figma started to put her designs into code! 🚧**
 
 ---
-
-⏳ Home Page started to be developed. 
+✅ Wallet linking integrations were made.
+<br/>⏳ Home Page started to be developed. 
 
 ---
 
