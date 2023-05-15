@@ -12,11 +12,14 @@ CAW - The Future Of Decentralized Social Media
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=cawmnty)](https://twitter.com/cawmnty)
 
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cawmntydevelopment&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[//]: # (---)
 
----
+[//]: # (# 📊 GitHub Stats:)
+
+[//]: # (![]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=cawmntydevelopment&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&#41;)
+
+[//]: # ()
+[//]: # (---)
 
 
 
