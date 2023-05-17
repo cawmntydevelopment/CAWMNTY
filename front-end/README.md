@@ -8,9 +8,9 @@ CAW - The Future Of Decentralized Social Media
 
 ---
 ✅ Wallet linking integrations were made.
-✅ Home Page design is completed.
-✅ Notifications Page design is completed.
-✅ Explore Page design is completed.
+<br/>✅ Home Page design is completed.
+<br/>✅ Notifications Page design is completed.
+<br/>✅ Explore Page design is completed.
 <br/>⏳ Settings Page started to be developed. 
 
 ---
