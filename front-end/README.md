@@ -11,7 +11,9 @@ CAW - The Future Of Decentralized Social Media
 <br/>✅ Home Page design is completed.
 <br/>✅ Notifications Page design is completed.
 <br/>✅ Explore Page design is completed.
-<br/>⏳ Settings Page started to be developed. 
+<br/>✅ Settings Page design is completed.
+<br/>✅ Bookmarks Page design is completed.
+<br/>⏳ Caw Direct Page started to be developed. 
 
 ---
 
