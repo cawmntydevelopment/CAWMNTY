@@ -1,19 +1,7 @@
-##   🎉 TestNet Active 🌙 🔮
-https://testnet.cawmnty.com
+## ⏳ COMING SOON 🔮
 
 ---
 
-### ⬇️ The file with the configuration ⬇️<br/>
-_Rename env!_
-### `.env.example` 🔄 `.env`
+### ⬇️ The countdown has begun! ⬇️<br/>
 
-
-### ⬇️ To download project packages ⬇️<br/>
-
-### `pnpm install`
-
-
-### ⬇️ To wake the project in developer mode ⬇️<br/>
-
-### `pnpm dev`
-
+### https://nft.cawmnty.com
