@@ -1,0 +1,31 @@
+{
+  "name": "faucet",
+  "version": "1.0.0",
+  "description": "Caw Faucet - QOALA",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krmrr/caw-faucet-backend.git"
+  },
+  "author": "QOALA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krmrr/caw-faucet-backend/issues"
+  },
+  "homepage": "https://github.com/krmrr/caw-faucet-backend#readme",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.7",
+    "@ethereumjs/common": "^3.2.0",
+    "@ethereumjs/tx": "^4.2.0",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "web3": "^4.0.2"
+  }
+}
